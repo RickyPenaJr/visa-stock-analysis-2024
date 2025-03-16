@@ -1,5 +1,5 @@
 # VISA Stock Analysis 2024
-<img src="https://github.com/user-attachments/assets/292ed585-e630-441e-af3b-d4e756420614" alt="visa-1" width="300">
+<img src="https://github.com/user-attachments/assets/292ed585-e630-441e-af3b-d4e756420614" alt="visa-1" width="500">
 <br>
 <br>
 
